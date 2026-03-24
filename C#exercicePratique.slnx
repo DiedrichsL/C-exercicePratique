@@ -1,0 +1,38 @@
+<Solution>
+  <Project Path="Exercice1/Exercice1_AnneeDeNaissance.csproj" />
+  <Project Path="Exercice10_LeJustePrix/Exercice10_LeJustePrix.csproj" Id="a0f23ca0-b9b9-42db-8dd2-1119a318d0b2" />
+  <Project Path="Exercice15_SurfaceEtCirconferenceCercle/Exercice15_SurfaceEtCirconferenceCercle.csproj" Id="975be72c-e8ce-4f3a-882d-9562d53a49de" />
+  <Project Path="Exercice16_Fibonacci/Exercice16_Fibonacci.csproj" Id="722bcbe6-1a81-480d-bbe7-8022f6275bf1" />
+  <Project Path="Exercice17_Voyelles/Exercice17_Voyelles.csproj" Id="7c420267-f9bc-49cf-bcca-310c6268589f" />
+  <Project Path="Exercice18_PuissanceDe2Nombres/Exercice18_PuissanceDe2Nombres.csproj" Id="412f9f2c-7663-40ae-8c98-b37751f65ed8" />
+  <Project Path="Exercice19_EstCePairBis/Exercice19_EstCePairBis.csproj" Id="9df16751-e2cd-47bf-b404-8459ae60b644" />
+  <Project Path="Exercice20_InverserLesLettresDunePhrase/Exercice20_InverserLesLettresDunePhrase.csproj" Id="d9c2a87a-deb1-4722-8757-f045821fa167" />
+  <Project Path="Exercice21_CompterLeNombreDeMotDansUnePhrase/Exercice21_CompterLeNombreDeMotDansUnePhrase.csproj" Id="b0c2ef9e-4b2e-4a83-a53f-0d30cf07e247" />
+  <Project Path="Exercice22_LanceDeDes/Exercice22_LanceDeDes.csproj" Id="a170c292-7d66-4ff0-a58a-125cb0ad662b" />
+  <Project Path="Exercice23_TrierLesElementDunTableau/Exercice23_TrierLesElementDunTableau.csproj" Id="3a39c722-138e-4470-942f-04e63d858d5c" />
+  <Project Path="Exercice24_Repetitions/Exercice24_Repetitions.csproj" Id="f68397ad-c0b5-4bf5-9c95-ce0c8dfc8bdb" />
+  <Project Path="Exercice25_ListeDeCourse/Exercice25_ListeDeCourse.csproj" Id="857b92af-5c64-48fc-83af-9482150bf05c" />
+  <Project Path="Exercice25_SommeMultiple/Exercice26_SommeMultiple.csproj" Id="0d3518a9-5c1a-4320-a0cd-6f2a13c9a1c9" />
+  <Project Path="Exercice27_Agent/Exercice27_Agent.csproj" Id="2821b918-09b9-4c38-a510-531fa8f4e67c" />
+  <Project Path="Exercice28_LeRectangle/Exercice28_LeRectangle.csproj" Id="ffbfa67b-332a-4f90-bdc8-be0d471983a7" />
+  <Project Path="Exercice29_CompteBancaire/Exercice29_CompteBancaire.csproj" Id="2598e4c8-8ab5-4829-9825-76801a846e0e" />
+  <Project Path="Exercice2_Permutation/Exercice2_Permutation.csproj" Id="0d2c70d1-7d86-4894-b68c-ffe195da6287" />
+  <Project Path="Exercice30_M16/Exercice30_M16.csproj" Id="33c3aecb-b170-4aa3-8d16-64c015cb5e43" />
+  <Project Path="Exercice31_LeJeuDeCarte/Exercice31_LeJeuDeCarte.csproj" Id="d04456ce-2be8-4a49-9c6d-01b98d86fb53" />
+  <Project Path="Exercice32_Dessinez-diagramme/Exercice32_Dessinez-diagramme.csproj" Id="806b27bf-c85d-45f3-b407-fd14b4f9ca95" />
+  <Project Path="Exercice33_Hertitage-Travail/Exercice33_Hertitage-Travail.csproj" Id="ec0b13ce-457c-4cd2-9250-508bfeb9a3c6" />
+  <Project Path="Exercice34_Shape/Exercice34_Shape.csproj" Id="4d440ac2-0aad-4299-ad8f-08f4fd593574" />
+  <Project Path="Exercice35_BoiteAuxlettres/Exercice35_BoiteAuxlettres.csproj" Id="a45cd082-64d4-4e8b-b5b2-b2f98b283f50" />
+  <Project Path="Exercice36_GestionStock/Exercice36_GestionStock.csproj" Id="42d3fc4b-53fa-4bf3-851d-7c2926022302" />
+  <Project Path="Exercice3_Fondue/Exercice3_Fondue.csproj" Id="eb5f14c7-a2bf-4a56-80d4-ebe01616f389" />
+  <Project Path="Exercice4_Roses-rouges/Exercice4_Roses-rouges.csproj" Id="6a012eb5-4f23-4335-8d6e-c3741fb01484" />
+  <Project Path="Exercice5_Les-conditions-et-les-operateurs/Exercice5_Les-conditions-et-les-operateurs.csproj" Id="793a280b-fefe-44bb-a2bf-09cd992cb53c" />
+  <Project Path="Exercice6_Les-boucles/Exercice6_Les-boucles.csproj" Id="53de35cd-468a-44dc-a556-3ce92d906b8c" />
+  <Project Path="Exercice7_Couleur-bis/Exercice7_Couleur-bis.csproj" Id="854be42b-6fc9-4ead-b9e6-d43b73a1decd" />
+  <Project Path="Exercice8_LalettreE/Exercice8_LalettreE.csproj" Id="4bf066c6-7289-4b2c-9280-0a5c227432c7" />
+  <Project Path="Exercice9_Le-jeu-de-la-fourchette/Exercice9_Le-jeu-de-la-fourchette.csproj" Id="ea73f52a-9b8a-4961-92bc-5ad5a63d7b9c" />
+  <Project Path="Exercice_11_EstCePair/Exercice_11_EstCePair.csproj" Id="70c088e0-6581-4095-9d7c-96c194d662f3" />
+  <Project Path="Exercice_12_MessageMeteo/Exercice_12_MessageMeteo.csproj" Id="b23d77ec-af5c-4e09-a0d0-77b34aab5f24" />
+  <Project Path="Exercice_13_SommesDeDeuxNombre/Exercice_13_SommesDeDeuxNombre.csproj" Id="d15be147-52b9-40e1-b42c-5681002c91c6" />
+  <Project Path="Exercice_14_CalculerSurfaceRectangle/Exercice_14_CalculerSurfaceRectangle.csproj" Id="c898e850-4421-415d-960f-964930269c60" />
+</Solution>

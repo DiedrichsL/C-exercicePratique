@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Exercice25_Agent": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
